@@ -4,4 +4,4 @@ An Atom package assisting with the steep learning curve of the Hoon programming 
 Displays documentation for different Hoon terms that are under your cursor.
 
 ## Prerequisite
-The [https://github.com/yonilevy/language-hoon](language-hoon) Atom package.
+The [language-hoon](https://github.com/yonilevy/language-hoon) Atom package.
