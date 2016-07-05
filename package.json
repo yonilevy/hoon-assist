@@ -1,14 +1,14 @@
 {
   "name": "hoon-assist",
   "main": "./lib/hoon-assist",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "A Hoon assistant, displays documentation on different keywords",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "hoon-assist:toggle"
-  },
-  "repository": "https://github.com/atom/hoon-assist",
+  "activationHooks": [
+    "language-hoon:grammar-used"
+  ],
+  "repository": "https://github.com/yonilevy/hoon-assist",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
