@@ -2,7 +2,7 @@
   "name": "hoon-assist",
   "main": "./lib/hoon-assist",
   "version": "0.1.0",
-  "description": "A Hoon assistant, displays documentation on different keywords",
+  "description": "Displays documentation for different Hoon terms that are under your cursor.",
   "keywords": [
   ],
   "activationHooks": [
