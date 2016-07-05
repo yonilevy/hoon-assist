@@ -1,0 +1,18 @@
+{
+   "menu": [
+     {
+       "label": "Packages",
+       "submenu": [
+         {
+           "label": "Hoon Assist",
+           "submenu": [
+             {
+               "label": "Toggle",
+               "command": "hoon-assist:toggle"
+             }
+           ]
+         }
+       ]
+     }
+   ]
+ }
