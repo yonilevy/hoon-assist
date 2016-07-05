@@ -1,0 +1,18 @@
+{
+  "name": "hoon-assist",
+  "main": "./lib/hoon-assist",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "hoon-assist:toggle"
+  },
+  "repository": "https://github.com/atom/hoon-assist",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

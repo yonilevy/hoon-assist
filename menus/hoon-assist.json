@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle hoon-assist",
+        "command": "hoon-assist:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hoon-assist",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "hoon-assist:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
