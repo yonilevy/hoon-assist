@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "hoon-assist:toggle"
+    "ctrl-;": "hoon-assist:toggle"
   }
 }
