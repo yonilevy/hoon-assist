@@ -1,10 +1,9 @@
 {
   "name": "hoon-assist",
   "main": "./lib/hoon-assist",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Displays documentation for different Hoon terms that are under your cursor.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationHooks": [
     "language-hoon:grammar-used"
   ],
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
